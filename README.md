@@ -14,7 +14,7 @@ Sou a Maria Déborah, sou uma programadora Front-End. Atualmente estou aprendend
 #Connect with me: 
 
 <p>
-  <a href="https://www.linkedin.com/in/maria-deborah-554a60ba/">
+  <a href="https://www.linkedin.com/in/maria-deborah/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="logo-linkd">
   </a>
 </p>
