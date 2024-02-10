@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi! ✨ :) 
 
 Sou a Maria Déborah, sou uma programadora Front-End. Atualmente estou aprendendo e criando projetos com:
 <br>
