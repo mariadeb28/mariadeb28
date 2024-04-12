@@ -1,6 +1,6 @@
 ### Hi! ✨ :) 
 
-Sou a Maria Déborah, sou uma programadora Front-End. Neste período, estou focando em aprofundar-me nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades.
+Sou a Maria Déborah, sou uma programadora Front-End. Neste período, estou focando em aprofundar nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades.
 Me costumam me descrever como atenciosa, motivada, uma boa ouvinte e proativa quando enfrento desafios. Estou sempre em busca de novas oportunidades que me permitam crescer profissionalmente e aperfeiçoar as minhas soft skills, para assim, aplicar meus conhecimentos e contribuir para o desenvolvimento do setor da tecnologia. 👩‍💻📱
 <br>
 Atualmente estou aprendendo e criando projetos com:
