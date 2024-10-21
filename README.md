@@ -1,6 +1,6 @@
 ### Hi! ✨ :) 
 
-Sou a Maria Déborah, sou uma programadora Front-End. Neste período, estou focando em aprofundar nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades.
+Sou a Maria Déborah, sou uma programadora Full Stack. Neste período, estou focando em aprofundar nos estudos e desenvolver projetos que ampliem meus conhecimentos e habilidades.
 Me costumam me descrever como atenciosa, motivada, uma boa ouvinte e proativa quando enfrento desafios. Estou sempre em busca de novas oportunidades que me permitam crescer profissionalmente e aperfeiçoar as minhas soft skills, para assim, aplicar meus conhecimentos e contribuir para o desenvolvimento do setor da tecnologia. 👩‍💻📱
 <br>
 Atualmente estou aprendendo e criando projetos com:
@@ -10,6 +10,7 @@ Atualmente estou aprendendo e criando projetos com:
 - <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="logo-java">
 - <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="logo-react">
 - <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="logo-node">
+- <img src=	"https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="logo-java">
 
 #Connect with me: 
 
